@@ -1,0 +1,17 @@
+.footer {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: 1rem;
+  padding: 1rem 0;
+  margin-top: 3rem;
+  font-family: 'Rajdhani', sans-serif ;
+  font-weight: bold;
+  color: white;
+}
+.footer__link:focus {
+  outline: auto;
+  outline-width: auto !important;
+  outline-style: solid !important;
+  outline-color: rgba(253, 253, 253);
+}
